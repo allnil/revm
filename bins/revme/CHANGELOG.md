@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.0](https://github.com/allnil/revm/compare/revme-v0.4.0...revme-v0.5.0) - 2024-04-12
+
+### Added
+- *(revme)* add --keep-going to statetest command ([#1277](https://github.com/allnil/revm/pull/1277))
+- EOF (Ethereum Object Format) ([#1143](https://github.com/allnil/revm/pull/1143))
+
 ## [0.4.0](https://github.com/bluealloy/revm/compare/revme-v0.3.1...revme-v0.4.0) - 2024-04-02
 
 ### Added
